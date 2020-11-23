@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "gc-dsa-clubs": {
+      "hosting": {
+        "gc-dsa-clubs": [
+          "gc-dsa-clubs"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "gc-dsa-clubs"
+  }
+}

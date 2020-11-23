@@ -123,6 +123,10 @@
               "devServerTarget": "gc-dsa-clubs:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }
